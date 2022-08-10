@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+  }
+  
+  .box div {
+    height: 200vh;
+  }
+  h2{
+      text-align: center;
+  }
